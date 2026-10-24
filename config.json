@@ -1,0 +1,15 @@
+{
+  "project": "warehouse-simulation",
+  "components": [
+    {
+      "name": "crate",
+      "quantity": 10,
+      "unit": "each"
+    },
+    {
+      "name": "pallet",
+      "quantity": 4,
+      "unit": "each"
+    }
+  ]
+}
